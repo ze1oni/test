@@ -1,2 +1,4 @@
 def func():
-    pass
+    pass 
+def func():
+    pass 
